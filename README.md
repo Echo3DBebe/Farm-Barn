@@ -1,3 +1,45 @@
+# Unity-echo3D-Demo-FarmBarn
+This 3D farming game is forked from [gansari](https://github.com/gansari231/Farm-Barn).
+
+This demo allows you to remotely set and swap the bananas and the player from the echo3D cloud.
+
+# Setup
+* Built with Unity 2022.3.5.
+* [Register](https://console.echo3d.com/#/auth/register?utm_term={keyword}&utm_campaign=3D_farming_reskin&utm_source=GITHUB&utm_medium=repo) for your free echo3D account.
+* The echo3D SDK has already been installed.
+* Clone this repo.
+
+# Steps
+* Open the Level 2 scene in Assets/Scenes.
+* [Add the banana](https://docs.echo3d.co/quickstart/add-a-3d-model) from the Models folder to the echo3D cloud.
+* [Add the farmer](https://docs.echo3d.co/quickstart/add-a-3d-model) from the Models folder to the echo3D cloud.
+ ![AddToCloudGIF](https://github.com/Echo3DBebe/3DPlatformer/assets/99516371/a37e7194-8a48-4bae-a3f2-d05d76b1e20d)<br>
+* [Add the API key and entry ID](https://docs.echo3d.com/unity/using-the-sdk) to Banana, Banana1, Banana2 and Player objects in the Hierarchy through the Inspector on the echo3DHologram component. <br>
+![APIKey](https://github.com/Echo3DBebe/3DPlatformer/assets/99516371/239cdfc8-d448-4003-a34a-3135483a49f0) <br>
+![EntryID](https://github.com/Echo3DBebe/3DPlatformer/assets/99516371/fdbf2479-aa77-422a-ae47-408c2a57957a)<br>
+![NEWAPIKeyandEntryID](https://github.com/Echo3DBebe/3DPlatformer/assets/99516371/1f661997-00c3-4bbd-b574-bccb39adbd95)
+
+# Run
+Simply press the Play button in Unity and carefully collect the rotating objects.
+
+# Learn More
+Refer to our [documentation](https://docs.echo3d.com/unity) to learn more about how to use Unity and echo3D.
+
+# Support
+Feel free to reach out at [support@echo3D.com](support@echo3D.com) or join our [support channel on Slack](https://go.echo3d.co/join).
+
+# Screenshots
+![GIF_NewBanana](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/bffbc96c-91e7-4683-b45b-2f16a424b9a9) <br>
+![GIF_OldBananas](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/6075317c-f360-44cd-a0f4-4341c02ac75a) <br>
+![ezgif com-gif-maker](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/08bd4601-4d78-4b4e-bce8-8a148d4ee9b3)<br>
+![NewBananaGIF](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/ecd9a956-a643-4d19-b4bd-fafb22b9c98f)
+![NewBananasRotating](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/682353b3-7e05-41cc-b80c-a6c311e08ad5)<br>
+![FarmersGIF](https://github.com/Echo3DBebe/Unity-echo3D-Demo-FarmBarn/assets/99516371/9e02e3c8-e707-41c4-ab90-ba51e7edc409)
+
+***
+
+## Original README
+
 - Made a game prototype of genre "Avoid the Light" for Gamejam for my full stack Game development course at Outscal.
 - Player has to avoid the light of the enemies and gather the in game collectables in order to complete the level.
 - Introduced patrolling enemies to make game more playable and interesting.
@@ -14,4 +56,3 @@
 ![Gameplay 3](https://github.com/gansari231/Farm-Barn/assets/54135921/064e24f4-9a58-462b-ac7c-65dd841c3a1e)
 
 ![Gameplay 4](https://github.com/gansari231/Farm-Barn/assets/54135921/6aadfa48-2a96-4392-a003-3a96698e3557)
-
