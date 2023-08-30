@@ -29,11 +29,11 @@ Refer to our [documentation](https://docs.echo3d.com/unity) to learn more about 
 Feel free to reach out at [support@echo3D.com](support@echo3D.com) or join our [support channel on Slack](https://go.echo3d.co/join).
 
 # Screenshots
-![GIF_NewBanana](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/bffbc96c-91e7-4683-b45b-2f16a424b9a9) <br>
-![GIF_OldBananas](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/6075317c-f360-44cd-a0f4-4341c02ac75a) <br>
-![ezgif com-gif-maker](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/08bd4601-4d78-4b4e-bce8-8a148d4ee9b3)<br>
-![NewBananaGIF](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/ecd9a956-a643-4d19-b4bd-fafb22b9c98f)
-![PlayerGIF](https://github.com/Echo3DBebe/Unity-echo3D-Demo-FarmBarn/assets/99516371/1ba5fc7d-7ad1-42b3-b6cf-1645be24676a)
+![https://github.com/echo3Dco/Unity-echo3D-Demo-FarmBarn/blob/master/Screenshots/BananasGIF.gif](https://github.com/echo3Dco/Unity-echo3D-Demo-FarmBarn/blob/master/Screenshots/BananasGIF.gif)<br>
+![https://github.com/echo3Dco/Unity-echo3D-Demo-FarmBarn/blob/master/Screenshots/NewBananasRotating.gif](https://github.com/echo3Dco/Unity-echo3D-Demo-FarmBarn/blob/master/Screenshots/NewBananasRotating.gif)<br>
+![https://github.com/echo3Dco/Unity-echo3D-Demo-FarmBarn/blob/master/Screenshots/PlayerGIF.gif](https://github.com/echo3Dco/Unity-echo3D-Demo-FarmBarn/blob/master/Screenshots/PlayerGIF.gif)<br>
+![https://github.com/echo3Dco/Unity-echo3D-Demo-FarmBarn/blob/master/Screenshots/Take2_NewPlayer.png](https://github.com/echo3Dco/Unity-echo3D-Demo-FarmBarn/blob/master/Screenshots/Take2_NewPlayer.png)<br>
+![https://github.com/echo3Dco/Unity-echo3D-Demo-FarmBarn/blob/master/Screenshots/Take2_OldPlayer.png](https://github.com/echo3Dco/Unity-echo3D-Demo-FarmBarn/blob/master/Screenshots/Take2_OldPlayer.png)
 
 
 ***
